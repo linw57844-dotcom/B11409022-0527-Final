@@ -1,6 +1,7 @@
 import os
 
 # 全域變數移除，改為參數傳遞
+print("=== 圖書管理系統 v1.0 ===")
 FILE_NAME = "lib_data.txt"
 
 def load_library_data(file_name):
