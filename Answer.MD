@@ -117,8 +117,8 @@ PS C:\Users\pclab\Desktop\NTUST-0527-Final-master>
 
 
 ```log
-# fb02097 (HEAD -> master) v2
-
+# 
+fb02097 (HEAD -> master) v2
 
 ```
 
@@ -127,8 +127,8 @@ PS C:\Users\pclab\Desktop\NTUST-0527-Final-master>
 將專案推送到 GitHub (Public) 若提交到 Private 連結不給分。 請設定 Repository 名稱為 `學號-0527-Final` Ex: B11526748-0527-Final **請用 - 不是 _**
 
 ```log
-# https://github.com/linw57844-dotcom/B11409022-0527-Final
-
+# 
+https://github.com/linw57844-dotcom/B11409022-0527-Final
 
 ```
 
